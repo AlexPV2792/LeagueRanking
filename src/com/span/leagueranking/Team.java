@@ -1,4 +1,4 @@
-package main.java.com.span.leagueranking;
+package com.span.leagueranking;
 
 public class Team implements Comparable<Team> {
   private String name;

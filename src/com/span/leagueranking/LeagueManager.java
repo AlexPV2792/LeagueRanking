@@ -1,4 +1,4 @@
-package main.java.com.span.leagueranking;
+package com.span.leagueranking;
 
 import java.util.*;
 
